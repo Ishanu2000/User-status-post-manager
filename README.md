@@ -26,11 +26,6 @@ Redirect WordPress users to their assigned post after login. Allow admins to ass
 - **Content Hiding:** Member category posts are hidden from homepage/archive queries.
 - **Member Experience:** A logout button appears, and sidebars are removed for better focus.
 
-## 🖼️ Screenshots
-
-1. Assign post to user meta box in post editor
-2. Logout button visible on member-only post
-
 ## ❓ FAQ
 
 ### Can I assign multiple posts to a user?
